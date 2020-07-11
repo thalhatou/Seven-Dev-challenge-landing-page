@@ -1,0 +1,17 @@
+:root {
+  --primary-color: rgb(6, 156, 156);
+}
+
+a:hover {
+  cursor: pointer;
+}
+span {
+  color: var(--primary-color);
+}
+.btn {
+  background-color: var(--primary-color);
+}
+.fas {
+  color: var(--primary-color);
+  font-size: 20px;
+}
