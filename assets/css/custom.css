@@ -34,3 +34,6 @@ span {
   color: var(--primary-color);
   font-size: 20px;
 }
+h2 {
+  color: var(--primary-color);
+}
